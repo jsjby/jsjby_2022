@@ -1,5 +1,3 @@
-# 2022年计算机保研带上岸的情况
-
 # 2022年计算机保研夏令营
 
 ## [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html) <font color=#FF0000 size=4>截止日期：5.30</font> 
