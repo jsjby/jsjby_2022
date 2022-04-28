@@ -25,6 +25,7 @@
 #### 【截止：6月份左右】 [天津大学TANKLab 2023级导师团及特招直博生招新](https://mp.weixin.qq.com/s?srcid=0328TrVBOLBU7UuOZhHctIdf&scene=23&sharer_sharetime=1648461969548&mid=2247485718&sharer_shareid=13a0869e2dfd7c9b03339911eb553922&sn=23bc73443c1c9673ce2301101963930b&idx=1&__biz=MzI5MTQwNTAwMg%3D%3D&chksm=ec1064b3db67eda590df3a9514b87316c28089d7aae5acf22c50ee8fbcc277dc13fdd1862eb2&mpshare=1#rd) 【985+西电等高校，不需要学院面】
 #### 【时间：6-7月】 [北大MILab-北京大学生物医学工程系](https://wiki.milab.wiki/pages/viewpage.action?pageId=18972735)
 #### 【空缺：多名】 [武大遥感信息工程学院智能信息处理实验室](http://iip.whu.edu.cn/recruitment.html)
+#### 【实习、指导】 [清华大学计算机系喻文健老师课题组招人](http://muchong.com/t-8994659-1-authorid-2426351)
 #### 【时间：不限】 [香港科技大学陈浩老师人工智能医疗课题组招聘](https://cse.hkust.edu.hk/~jhc/) :sparkling_heart: :sparkling_heart: 
 ## 计算机保研交流群
 
