@@ -7,11 +7,20 @@
 
 #### 【截止：5月份左右】【六级480】 [中科院软件所--中文信息处理实验室招推免生](http://www.icip.org.cn/zh/2022/04/11/recruit/)   
 
+#### 【截止：5月10日】 [中国科学院大学2022年度全国大学生“空天信息技术”春令营](https://mp.weixin.qq.com/s/PY75jel1zZuMrF83sDQQag)   
+清华大学工业工程系2022年全国优秀大学生夏令营通知
+
 #### 【截止：5.20】 [北京大学--未来技术学院关于举办 “2022年全国优秀大学生夏令营” 活动的通知（第一轮）](https://future.pku.edu.cn/xwyjz/xwzk/07b48713a6eb4cb4ac654fdf61031261.htm)   
 
 #### 【截止：5.20】 [中国人民大学信息学院“2022年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)   
 
 #### 【截止：5.30】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)
+
+#### 【截止：5.31】 [清华大学工业工程系2022年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/TrTDLpXsunxDVWFqgqMTYw)
+
+#### 【截止：5.31】 [复旦大学大数据学院2022年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/bf/72/c17701a442226/page.htm)
+
+#### 【截止：5.31】 [复旦大学计算机科学技术学院2022年全国优秀大学生夏令营活动通知](https://cs.fudan.edu.cn/bf/99/c24257a442265/page.htm)
 
 #### 【截止：6.05】 [2022年北京大学工学院优秀大学生暑期夏令营通知](http://www.coe.pku.edu.cn/announcements/college/11445.html)
 
