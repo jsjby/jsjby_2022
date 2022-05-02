@@ -18,7 +18,7 @@
 #### 【截止：5.30】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)
 
 
-#### 【截止：5.31】 [复旦大学信息科学与工程学院2022年全国优秀大学生夏令营活动](http://www.it.fudan.edu.cn/Data/View/4104)
+#### 【截止：5.31】【人数350人左右】 [复旦大学信息科学与工程学院2022年全国优秀大学生夏令营活动](http://www.it.fudan.edu.cn/Data/View/4104)
 
 #### 【截止：5.31】【线下】 [清华大学工业工程系2022年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/TrTDLpXsunxDVWFqgqMTYw)
 
