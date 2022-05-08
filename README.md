@@ -26,6 +26,8 @@
 
 #### 【截止：5.31】【人数300左右】 [复旦大学计算机科学技术学院2022年全国优秀大学生夏令营活动通知](https://cs.fudan.edu.cn/bf/99/c24257a442265/page.htm)
 
+#### 【截止：6.10】 [中国人民大学高瓴人工智能学院 2022年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20220507001.html)
+
 #### 【截止：6.05】 [2022年北京大学工学院优秀大学生暑期夏令营通知](http://www.coe.pku.edu.cn/announcements/college/11445.html)
 
 #### 【截止：6.30】 [电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1032/4765.htm)
@@ -39,7 +41,9 @@
 #### 【时间：6-7月】 [北大MILab-北京大学生物医学工程系](https://wiki.milab.wiki/pages/viewpage.action?pageId=18972735)
 #### 【空缺：多名】 [武大遥感信息工程学院智能信息处理实验室](http://iip.whu.edu.cn/recruitment.html)
 #### 【实习、指导】 [清华大学计算机系喻文健老师课题组招人](http://muchong.com/t-8994659-1-authorid-2426351)
-#### 【时间：不限】 [香港科技大学陈浩老师人工智能医疗课题组招聘](https://cse.hkust.edu.hk/~jhc/) :sparkling_heart: :sparkling_heart: 
+#### 【截止时间6.20】 [南京大学LAMDA招收 2023年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2023/recruit-2023.html) :sparkling_heart: :sparkling_heart: 
+#### 【时间：不限】 [复旦大学视觉与学习实验室研究生招生简章](https://mp.weixin.qq.com/s/PU-mbsyzwtQ1B_-kwnSmwg) :sparkling_heart: :sparkling_heart: 
+#### 【时间：不限】 [香港科技大学陈浩老师人工智能医疗课题组招聘](https://cse.hkust.edu.hk/~jhc/) 
 ## 计算机保研交流群
 
 **计算机保研交流群**（QQ群号：1080150860）群里有已经总结好的专业课资料（目前人数1913）
