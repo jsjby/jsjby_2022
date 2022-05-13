@@ -47,6 +47,7 @@
 #### 【空缺：多名】 [武大遥感信息工程学院智能信息处理实验室](http://iip.whu.edu.cn/recruitment.html)
 #### 【实习、指导】 [清华大学计算机系喻文健老师课题组招人](http://muchong.com/t-8994659-1-authorid-2426351)
 #### 【截止时间6.20】 [南京大学LAMDA招收 2023年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2023/recruit-2023.html) :sparkling_heart: :sparkling_heart: 
+#### 【时间不限】 [PALM实验室2023年秋季入学研究生报名须知](http://palm.seu.edu.cn/application.html) :sparkling_heart: :sparkling_heart: 
 #### 【时间：不限】 [复旦大学视觉与学习实验室研究生招生简章](https://mp.weixin.qq.com/s/PU-mbsyzwtQ1B_-kwnSmwg) :sparkling_heart: :sparkling_heart: 
 #### 【时间：不限】 [香港科技大学陈浩老师人工智能医疗课题组招聘](https://cse.hkust.edu.hk/~jhc/) 
 ## 计算机保研交流群
