@@ -33,6 +33,8 @@
 #### 【截止：6.05】 [2022年北京大学工学院优秀大学生暑期夏令营通知](http://www.coe.pku.edu.cn/announcements/college/11445.html)
 
 #### 【截止：6.05】 [兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知]( http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)
+
+#### 【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知]( https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
 #### 【截止：6.19】 [上海科技大学信息科学与技术学院 2022年优秀大学生夏令营报名通知](https://sist.shanghaitech.edu.cn/2022/0509/c2863a540028/page.htm)
 #### 【截止：6.20】 [中国科学技术大学2022年第九届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=888)
 #### 【截止：6.30】 [电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1032/4765.htm)
