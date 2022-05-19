@@ -60,7 +60,7 @@
 #### 【时间不限】 [东南大学PALM实验室2023年秋季入学研究生报名须知](http://palm.seu.edu.cn/application.html) :sparkling_heart: :sparkling_heart: 
 #### 【时间：不限】 [复旦大学视觉与学习实验室研究生招生简章](https://mp.weixin.qq.com/s/PU-mbsyzwtQ1B_-kwnSmwg) :sparkling_heart: :sparkling_heart: 
 #### 【时间：不限】 [香港科技大学陈浩老师人工智能医疗课题组招聘](https://cse.hkust.edu.hk/~jhc/) 
-#### 【时间：不限】 [2022年浙江大学创新软件研发中心招生宣传通知](https://cse.hkust.edu.hk/~jhc/](http://eagle.zju.edu.cn/join/enrollment/) 
+#### 【时间：不限】 [2022年浙江大学创新软件研发中心招生宣传通知](http://eagle.zju.edu.cn/join/enrollment/) 
 #### 【时间：不限】 [2022年东北大学自然语言处理实验室招收推免生通知](https://www.nlplab.com/)
 ## 计算机保研交流群
 
