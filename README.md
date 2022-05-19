@@ -63,7 +63,7 @@
 #### 【时间：不限】 [2022年浙江大学创新软件研发中心招生宣传通知](http://eagle.zju.edu.cn/join/enrollment/) 
 #### 【时间：不限】 [2022年东北大学自然语言处理实验室招收推免生通知](https://www.nlplab.com/)
 #### 【时间：不限】 [ 上海科技大学王春东课题组招收计算机系统方向硕士生](https://toast-lab.gitee.io/)
-#### 【时间：不限】 [大连理工大学金博课题组招收保研生（计算机科学专业）]([https://toast-lab.gitee.io/](http://gs1.dlut.edu.cn/Supervisor/Front/dsxx/new/Default.aspx?WebPageName=jinbo))
+#### 【时间：不限】 [大连理工大学金博课题组招收保研生（计算机科学专业）](https://toast-lab.gitee.io/](http://gs1.dlut.edu.cn/Supervisor/Front/dsxx/new/Default.aspx?WebPageName=jinbo)
 ## 计算机保研交流群
 
 **计算机保研交流群**（QQ群号：1080150860）群里有已经总结好的专业课资料（目前人数1913）
