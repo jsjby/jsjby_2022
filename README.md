@@ -40,7 +40,7 @@
 #### 【截止：6.19】 [上海科技大学信息科学与技术学院 2022年优秀大学生夏令营报名通知](https://sist.shanghaitech.edu.cn/2022/0509/c2863a540028/page.htm)
 
 #### 【截止：6.19】 [华东师范大学计算机科学与技术学院2022年优秀大学生夏令营活动招生公告](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp？xlyjbdwbh=2022051320132001150608)
-#### 【截止：6.20】 [南京大学人工智能学院2022年本科生开放日报名通知]([https://sist.shanghaitech.edu.cn/2022/0509/c2863a540028/page.htm](https://ai.nju.edu.cn/b1/64/c17810a569700/pagem.htm))
+#### 【截止：6.20】 [南京大学人工智能学院2022年本科生开放日报名通知](https://ai.nju.edu.cn/b1/64/c17810a569700/pagem.htm)
 #### 【截止：6.20】 [中国科学技术大学2022年第九届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=888)
 #### 【截止：6.20】 [2022年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=191)
 #### 【截止：6.20】 [中山大学微电子科学与技术学院2022年全国优秀大学生夏令营报名通知](https://mst.sysu.edu.cn/article/644)
