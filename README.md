@@ -32,6 +32,7 @@
 #### 【截止：6.05】 [吉林大学通信工程学院2022年全国优秀大学生夏令营通知](http://dce.jlu.edu.cn/info/1032/9031.htm)
 #### 【截止：6.05】 [吉林大学软件学院2022年全国优秀大学生 暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/5701.htm)
 #### 【截止：6.05】 [兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知]( http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)
+#### 【截止：6.09】 [清华大学“计算法学”夏令营](https://www.law.tsinghua.edu.cn/info/1135/13185.htm)
 #### 【截止：6.10】 [中国人民大学高瓴人工智能学院 2022年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20220507001.html)
 #### 【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
 #### 【截止：6.15】 [华东师范大学2022年度通信与电子工程学院“优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051820180355102724)
