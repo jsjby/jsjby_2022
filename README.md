@@ -38,8 +38,7 @@
 #### 【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
 #### 【截止：6.15】 [华东师范大学2022年度通信与电子工程学院“优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051820180355102724)
 #### 【截止：6.15】 [2022年厦门大学电子科学与技术学院全国优秀大学生暑期夏令营招生指南](https://ese.xmu.edu.cn/info/1018/10249.htm)
-#### 【截止：6.15】 [2022年同济大学电子与信息工程学院优秀学生暑期学校活动通知]
-(https://see.tongji.edu.cn/info/1147/10142.htm)
+#### 【截止：6.15】 [2022年同济大学电子与信息工程学院优秀学生暑期学校活动通知](https://see.tongji.edu.cn/info/1147/10142.htm)
 #### 【截止：6.15】 [厦门大学信息学院（特色化范性软件学院）2022年优秀大学生夏令营招生简章](https://informatics.xmu.edu.cn/info/1050/20229.htm)
 #### 【截止：6.19】 [上海科技大学信息科学与技术学院 2022年优秀大学生夏令营报名通知](https://sist.shanghaitech.edu.cn/2022/0509/c2863a540028/page.htm)
 
