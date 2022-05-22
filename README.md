@@ -5,6 +5,8 @@
 
 ~~【截止：4.24】 [清华大学自动化系智能与网络化系统研究中心2022年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/PIh-a1VIBqt7-BambzxkUA)~~
 
+#### 【截止：6月20日】【四级480或六级425】 [华东理工大学科技信息研究所2022年全国大学生暑期夏令营通知](	https://lib.ecust.edu.cn/zh-hans/node/62841)  
+
 #### 【截止：5月份左右】【六级480】 [中科院软件所--中文信息处理实验室招推免生](http://www.icip.org.cn/zh/2022/04/11/recruit/)   
 
 #### 【截止：5月10日】 [中国科学院大学2022年度全国大学生“空天信息技术”春令营](https://mp.weixin.qq.com/s/PY75jel1zZuMrF83sDQQag)   
