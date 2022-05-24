@@ -35,6 +35,7 @@
 #### 【截止：6.05】 [兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知]( http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)
 #### 【截止：6.09】 [清华大学“计算法学”夏令营](https://www.law.tsinghua.edu.cn/info/1135/13185.htm)
 #### 【截止：6.10】 [中国人民大学高瓴人工智能学院 2022年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20220507001.html)
+#### 【截止：6.10】 [2022年四川大学电子信息学院优秀大学生暑期云夏令营招生通知](https://eie.scu.edu.cn/info/1025/10445.htm)
 #### 【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
 #### 【截止：6.15】 [华东师范大学2022年度通信与电子工程学院“优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051820180355102724)
 #### 【截止：6.15】 [2022年厦门大学电子科学与技术学院全国优秀大学生暑期夏令营招生指南](https://ese.xmu.edu.cn/info/1018/10249.htm)
@@ -78,6 +79,7 @@
 ## 计算机保研交流群
 
 **计算机保研交流群**（QQ群号：1080150860）群里有已经总结好的专业课资料（目前人数近2000人）
+**计算机保研交流2群**（QQ群号：735406077）群里有已经总结好的专业课资料
 
 **哔哩哔哩账号主页:** &nbsp; [计算机保研](https://space.bilibili.com/258646084) &nbsp; [计算机保研之必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web) [2022计算机保研必看视频](https://www.bilibili.com/video/BV1er4y1t756?share_source=copy_web)
 ![计算机保研](https://github.com/jisuanjibaoyan2022/jsjby_2022/blob/main/bilibili.png)
