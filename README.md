@@ -52,6 +52,7 @@
 #### 【截止：6.20】 [2022年中国科学院大学沈阳计算所大学生暑期夏令营通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=191)
 #### 【截止：6.20】 [中山大学微电子科学与技术学院2022年全国优秀大学生夏令营报名通知](https://mst.sysu.edu.cn/article/644)
 #### 【截止：6.21】 [2022年南方科技大学统计与数据科学系全国优秀大学生夏令营活动招生公告](https://stat-ds.sustech.edu.cn/notice/232)
+#### 【截止：6.23】 [浙江大学信息与电子工程学院2022年全国优秀大学生暑期学术夏令营活动通知](	http://www.isee.zju.edu.cn/2022/0523/c21109a2553180/page.htm)
 #### 【截止：6.24】 [2022年南开大学国家示范性软件学院关于举办“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3193.htm)
 #### 【截止：6.25】 [2022年中国科学院深圳先进技术研究院(SIAT)全国优秀大学生夏令营](https://mp.weixin.qq.com/s/txpmXK9YQqUQdethXZe91g)
 #### 【截止：6.26】 [2022年北京师范大学人工智能学院优秀大学生夏令营](https://cist.bnu.edu.cn/tzgg/130692.html)
