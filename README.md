@@ -34,6 +34,7 @@
 #### 【截止：6.05】 [吉林大学软件学院2022年全国优秀大学生 暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/5701.htm)
 #### 【截止：6.05】 [兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知]( http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)
 #### 【截止：6.09】 [清华大学“计算法学”夏令营](https://www.law.tsinghua.edu.cn/info/1135/13185.htm)
+#### 【截止：6.09】 [2022年中南大学计算机学院优秀大学生暑期夏令营活动的通知](https://cse.csu.edu.cn/info/1040/6387.htm)
 #### 【截止：6.10】 [中国人民大学高瓴人工智能学院 2022年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20220507001.html)
 #### 【截止：6.10】 [2022年四川大学电子信息学院优秀大学生暑期云夏令营招生通知](https://eie.scu.edu.cn/info/1025/10445.htm)
 #### 【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
@@ -54,12 +55,14 @@
 #### 【截止：6.21】 [2022年南方科技大学统计与数据科学系全国优秀大学生夏令营活动招生公告](https://stat-ds.sustech.edu.cn/notice/232)
 #### 【截止：6.23】 [浙江大学信息与电子工程学院2022年全国优秀大学生暑期学术夏令营活动通知](	http://www.isee.zju.edu.cn/2022/0523/c21109a2553180/page.htm)
 #### 【截止：6.24】 [2022年南开大学国家示范性软件学院关于举办“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3193.htm)
+#### 【截止：6.24】 [2022年北京大学软件与微电子学院优秀大学生夏令营活动通知](http://www.ss.pku.edu.cn/index.php/admission/admnotice/4334-2022%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E9%80%9A%E7%9F%A5)
 #### 【截止：6.25】 [2022年中国科学院深圳先进技术研究院(SIAT)全国优秀大学生夏令营](https://mp.weixin.qq.com/s/txpmXK9YQqUQdethXZe91g)
 #### 【截止：6.26】 [2022年北京师范大学人工智能学院优秀大学生夏令营](https://cist.bnu.edu.cn/tzgg/130692.html)
 #### 【截止：6.30】 [电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1032/4765.htm)
 #### 【截止：6.30】 [北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
 #### 【截止：6.30】 [2022年山东大学青岛理论与计算科学研究院“优秀大学生暑期夏令营”活动通知](http://www.qitcs.qd.sdu.edu.cn/info/1031/1442.htm)
 #### 【截止：6.30】 [中国科学技术大学“优秀大学生夏令营” 活动通知]([http://www.qitcs.qd.sdu.edu.cn/info/1031/1442.htm](https://mp.weixin.qq.com/s?__biz=MzA5OTQ4MzAzMg==&mid=2650083353&idx=1&sn=1db1bed8ee834f726a53e97acd64ce4c))
+#### 【截止：6.30】 [2022年中国科学院自动化研究所“人工智能”大学生暑期学校招生通知](http://www.ia.cas.cn/yjsjy/zs/sszs/202205/t20220525_6453643.html)
 
 # 2022年计算机保研课题组招生
 ## 【欢迎各个课题组招生联系我们放课题组招生链接】
