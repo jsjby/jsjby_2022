@@ -35,6 +35,7 @@
 #### 【截止：6.05】 [兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知]( http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)
 #### 【截止：6.09】 [清华大学“计算法学”夏令营](https://www.law.tsinghua.edu.cn/info/1135/13185.htm)
 #### 【截止：6.09】 [2022年中南大学计算机学院优秀大学生暑期夏令营活动的通知](https://cse.csu.edu.cn/info/1040/6387.htm)
+#### 【截止：6.10】 [四川大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://ccs.scu.edu.cn/info/1026/2995.htm)
 #### 【截止：6.10】 [中国人民大学高瓴人工智能学院 2022年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20220507001.html)
 #### 【截止：6.10】 [2022年四川大学电子信息学院优秀大学生暑期云夏令营招生通知](https://eie.scu.edu.cn/info/1025/10445.htm)
 #### 【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
