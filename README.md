@@ -62,7 +62,7 @@
 #### 【截止：6.30】 [电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1032/4765.htm)
 #### 【截止：6.30】 [北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
 #### 【截止：6.30】 [2022年山东大学青岛理论与计算科学研究院“优秀大学生暑期夏令营”活动通知](http://www.qitcs.qd.sdu.edu.cn/info/1031/1442.htm)
-#### 【截止：6.30】 [中国科学技术大学“优秀大学生夏令营” 活动通知](http://www.qitcs.qd.sdu.edu.cn/info/1031/1442.htm](https://mp.weixin.qq.com/s?__biz=MzA5OTQ4MzAzMg==&mid=2650083353&idx=1&sn=1db1bed8ee834f726a53e97acd64ce4c)
+#### 【截止：6.30】 [中国科学技术大学“优秀大学生夏令营” 活动通知](https://xly.ustc.edu.cn/news.php?newsid=858)
 #### 【截止：6.30】 [2022年中国科学院自动化研究所“人工智能”大学生暑期学校招生通知](http://www.ia.cas.cn/yjsjy/zs/sszs/202205/t20220525_6453643.html)
 #### 【截止：6.30】 [中国科学院大学计算机网络信息中心2022年全国大学生“网络与计算”夏令营通知](	http://cnic.cas.cn/rcjy/xly/202205/t20220526_6454038.html)
 
