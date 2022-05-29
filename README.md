@@ -16,9 +16,6 @@
 
 #### 【截止：5.20】 [中国人民大学信息学院“2022年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)   
 
-#### 【截止：5.30】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)
-
-
 #### 【截止：5.31】【人数350人左右】 [复旦大学信息科学与工程学院2022年全国优秀大学生夏令营活动](http://www.it.fudan.edu.cn/Data/View/4104)
 
 #### 【截止：5.31】【线下】 [清华大学工业工程系2022年全国优秀大学生夏令营通知](https://mp.weixin.qq.com/s/TrTDLpXsunxDVWFqgqMTYw)
@@ -38,6 +35,7 @@
 #### 【截止：6.10】 [四川大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://ccs.scu.edu.cn/info/1026/2995.htm)
 #### 【截止：6.10】 [中国人民大学高瓴人工智能学院 2022年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20220507001.html)
 #### 【截止：6.10】 [2022年四川大学电子信息学院优秀大学生暑期云夏令营招生通知](https://eie.scu.edu.cn/info/1025/10445.htm)
+#### 【截止：6.10】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)
 #### 【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
 #### 【截止：6.15】 [华东师范大学2022年度通信与电子工程学院“优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051820180355102724)
 #### 【截止：6.15】 [2022年厦门大学电子科学与技术学院全国优秀大学生暑期夏令营招生指南](https://ese.xmu.edu.cn/info/1018/10249.htm)
