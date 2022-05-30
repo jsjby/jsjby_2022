@@ -10,11 +10,11 @@
 
 ~~【截止：5月10日】 [中国科学院大学2022年度全国大学生“空天信息技术”春令营](https://mp.weixin.qq.com/s/PY75jel1zZuMrF83sDQQag)~~
 
-~~【截止：5月19日】 [清华大学交叉信息研究院计算机学科2022年优秀大学生夏令营报名通知](https://admission.iiis.tsinghua.edu.cn/2022/)   
+~~【截止：5月19日】 [清华大学交叉信息研究院计算机学科2022年优秀大学生夏令营报名通知](https://admission.iiis.tsinghua.edu.cn/2022/)~~
 
-~~【截止：5.20】 [北京大学--未来技术学院关于举办 “2022年全国优秀大学生夏令营” 活动的通知（第一轮）](https://future.pku.edu.cn/xwyjz/xwzk/07b48713a6eb4cb4ac654fdf61031261.htm)   
+~~【截止：5.20】 [北京大学--未来技术学院关于举办 “2022年全国优秀大学生夏令营” 活动的通知（第一轮）](https://future.pku.edu.cn/xwyjz/xwzk/07b48713a6eb4cb4ac654fdf61031261.htm)~~
 
-~~【截止：5.20】 [中国人民大学信息学院“2022年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)   
+~~【截止：5.20】 [中国人民大学信息学院“2022年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2265)~~
 
 #### 【截止：5.31】【人数350人左右】 [复旦大学信息科学与工程学院2022年全国优秀大学生夏令营活动](http://www.it.fudan.edu.cn/Data/View/4104)
 
