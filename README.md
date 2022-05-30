@@ -75,7 +75,6 @@
 #### 【截止：7.8】 [2022年深圳大学计算机与软件学院全国优秀大学生计算机夏令营通知](https://baijiahao.baidu.com/s?id=1733992531587070592&wfr=spider&for=pc)
 
 # 2022年计算机保研课题组招生
-## 【欢迎各个课题组招生联系我们放课题组招生链接】
 
 #### 【开始：5月份左右】 【六级480】 [南开大学-计算机视觉团队](https://cv.nankai.edu.cn/)
 #### 【截止：暂无】 [中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/) 
