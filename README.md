@@ -76,6 +76,7 @@
 #### 【截止：6.25】 [2022年山东大学计算机学院全国优秀大学生暑期夏令营活动通知](https://www.cs.sdu.edu.cn/info/1068/5517.htm)
 #### 【截止：6.26】 [上海交通大学软件学院2022年优才夏令营通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=21216)
 #### 【截止：6.26】 [2022年北京师范大学人工智能学院优秀大学生夏令营](https://cist.bnu.edu.cn/tzgg/130692.html)
+#### 【截止：6.26】 [2022年中国科学院大学杭州高等研究院智能科学与技术学院优秀大学生夏令营营员招募通知](http://hias.ucas.ac.cn/znkxyjs/info/1055/1524.htm)
 #### 【截止：6.26】 [2022年山东大学软件学院全国优秀大学生暑期夏令营活动的通知](https://www.sc.sdu.edu.cn/info/1019/3346.htm)
 #### 【截止：6.26】 [2022年中山大学软件工程学院全国优秀大学生夏令营报名通知](https://sse.sysu.edu.cn/article/279)
 #### 【截止：6.26】 [2022年中山大学智能工程学院全国优秀大学生夏令营报名通知](https://ise.sysu.edu.cn/notice/1401325.htm)
