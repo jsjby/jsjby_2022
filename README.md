@@ -40,6 +40,7 @@
 #### 【截止：6.10】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)
 #### 【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
 #### 【截止：6.14】 [2022年清华大学网络研究院全国优秀大学生夏令营预通知](https://www.insc.tsinghua.edu.cn/info/1169/1842.htm)
+#### 【截止：6.14】 [2022年清华大学计算机系全国优秀大学生夏令营报名预通知](https://www.cs.tsinghua.edu.cn/info/1087/5034.htm)
 #### 【截止：6.15】 [华东师范大学2022年度通信与电子工程学院“优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2022051820180355102724)
 #### 【截止：6.15】 [武汉大学计算机学院2022年优秀大学生夏令营](http://cs.whu.edu.cn/news_show.aspx?id=1727)
 #### 【截止：6.15】 [2022年厦门大学电子科学与技术学院全国优秀大学生暑期夏令营招生指南](https://ese.xmu.edu.cn/info/1018/10249.htm)
