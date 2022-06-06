@@ -27,10 +27,15 @@
 ~~【截止：5.31】【人数300左右】 [2022年吉林大学计算机科学与技术学院 优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1091/16122.htm)~~
 
 ~~【截止：6.05】 [2022年北京大学工学院优秀大学生暑期夏令营通知](http://www.coe.pku.edu.cn/announcements/college/11445.html)~~
+
 ~~【截止：6.05】 [吉林大学通信工程学院2022年全国优秀大学生夏令营通知](http://dce.jlu.edu.cn/info/1032/9031.htm)~~
+
 ~~【截止：6.05】 [吉林大学软件学院2022年全国优秀大学生 暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/5701.htm)~~
+
 ~~【截止：6.05】 [2022年哈尔滨工业大学计算机学院海量数据计算研究中心推免生招生通知](https://mp.weixin.qq.com/s/nwJxqAhaYFXVrtGl_WT8wA)~~
+
 ~~【截止：6.05】 [兰州大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知]( http://xxxy.lzu.edu.cn/tongzhigonggao/2022/0509/195366.html)~~
+
 #### 【截止：6.09】 [清华大学“计算法学”夏令营](https://www.law.tsinghua.edu.cn/info/1135/13185.htm)
 #### 【截止：6.09】 [2022年中南大学计算机学院优秀大学生暑期夏令营活动的通知](https://cse.csu.edu.cn/info/1040/6387.htm)
 #### 【截止：6.09】 [2022年中南大学大数据研究院优秀大学生暑期夏令营活动的通知](https://bdi.csu.edu.cn/info/1063/2465.htm)
