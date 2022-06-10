@@ -89,6 +89,7 @@
 #### 【截止：6.23】 [2022年天津大学微电子学院2023级研究生招生夏令营活动通知](http://sme.tju.edu.cn/sytzgg/202206/t20220608_322305.htm)
 #### 【截止：6.23】 [2022年清华大学深圳国际研究生院数据科学和信息技术专业/清华-伯克利深圳学院优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2022/0531/c120a54040/page.htm)
 #### 【截止：6.24】 [2022年南开大学国家示范性软件学院关于举办“活力软件”优秀大学生夏令营的通知](https://cs.nankai.edu.cn/info/1042/3193.htm)
+#### 【截止：6.24】 [2022年华中师范大学计算机学院优秀大学生暑期夏令营活动通知](http://cs.ccnu.edu.cn/info/1115/2369.htm)
 #### 【截止：6.24】 [2022年北京邮电大学计算机学院（国家示范性软件学院）优秀大学生夏令营活动通知](https://scs.bupt.edu.cn/info/1020/3085.htm)
 #### 【截止：6.24】 [2022年北京大学软件与微电子学院优秀大学生夏令营活动通知](http://www.ss.pku.edu.cn/index.php/admission/admnotice/4334-2022%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E9%80%9A%E7%9F%A5)
 #### 【截止：6.25】 [2022年中国科学院深圳先进技术研究院(SIAT)全国优秀大学生夏令营](https://mp.weixin.qq.com/s/txpmXK9YQqUQdethXZe91g)
