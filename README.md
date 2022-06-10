@@ -125,7 +125,7 @@
 #### 【截止：7.9】 [2022年中国科学院软件研究所全国大学生“软件与网络”夏令营招生通知](https://www.is.cas.cn/yjsjy2016/zsxx2016/202205/t20220530_6455509.html)
 
 # 2022年计算机保研课题组招生
-
+#### 【截止：6.30】[武汉大学测绘遥感信息工程国家重点实验室](	http://www.lmars.whu.edu.cn/index.php/zxdf/3496.html)
 #### 【开始：5月份左右】 【六级480】 [南开大学-计算机视觉团队](https://cv.nankai.edu.cn/)
 #### 【截止：暂无】 [中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/) 
 #### 【截止：暂无】 [中国科学技术大学视觉几何课题组保研招生](http://staff.ustc.edu.cn/~xjchen99/)  
