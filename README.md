@@ -45,9 +45,13 @@
 ~~【截止：6.09】 [2022年中南大学大数据研究院优秀大学生暑期夏令营活动的通知](https://bdi.csu.edu.cn/info/1063/2465.htm)~~
 
 ~~【截止：6.10】 [四川大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://ccs.scu.edu.cn/info/1026/2995.htm)~~
+
 ~~【截止：6.10】 [中国人民大学高瓴人工智能学院 2022年优秀大学生夏令营](http://ai.ruc.edu.cn/newslist/notice/20220507001.html)~~
+
 ~~【截止：6.10】 [2022年四川大学电子信息学院优秀大学生暑期云夏令营招生通知](https://eie.scu.edu.cn/info/1025/10445.htm)~~
+
 ~~【截止：6.10】 [南京大学软件所招收 2022/2023 年秋季入学研究生说明](https://cs.nju.edu.cn/ics/recruit/index.html)~~
+
 ####【截止：6.12】 [华东师范大学软件工程学院2022年“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.aspxlyjbdwbh=2022051120179966143823)
 #### 【截止：6.14】 [2022年清华大学网络研究院全国优秀大学生夏令营预通知](https://www.insc.tsinghua.edu.cn/info/1169/1842.htm)
 #### 【截止：6.14】 [2022年清华大学计算机系全国优秀大学生夏令营报名预通知](https://www.cs.tsinghua.edu.cn/info/1087/5034.htm)
