@@ -124,6 +124,7 @@
 #### 【截止：6.27】 [华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F347F0EC7EBE9CEBA9D401C763D809D6F638AE64DE2C20F3960A21E29B76DB1E3)
 #### 【截止：6.28】 [清华大学深圳国际研究生院2022年电子信息/资源与环境（海洋技术与工程）优秀大学生夏令营报名通知](	https://www.sigs.tsinghua.edu.cn/2022/0601/c120a54060/page.htm)
 #### 【截止：6.28】 [中国科学院沈阳自动化研究所2022年“机器人与智能制造”优秀大学生夏令营通知](http://www.sia.cas.cn/zpjy/yjsjy/zs/zsgg/202205/t20220530_6455353.html)
+#### 【截止：6.28】 [2022年北京航空航天大学计算机学院全国优秀大学生夏令营活动通知](http://scse.buaa.edu.cn/info/1099/8925.htm)
 #### 【截止：6.30】 [杭州电子科技大学网络空间安全学院2022年优秀大学生暑期云夏令营招生简章](https://cbs.hdu.edu.cn/2022/0606/c2584a154632/page.htm)
 #### 【截止：6.30】 [电子科技大学2022年第七届“基础与前沿科学”全国优秀大学生暑期夏令营预报名通知](https://www.iffs.uestc.edu.cn/info/1032/4765.htm)
 #### 【截止：6.30】 [北京大学信息工程学院关于举办“2022年全国优秀大学生夏令营”的通知](https://www.ece.pku.edu.cn/info/1027/2451.htm)
