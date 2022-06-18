@@ -170,6 +170,7 @@
 #### 【截止：7.1】 [中央财经大学信息学院第六届“财经科技精英夏令营”活动报名通知](https://ie.cufe.edu.cn/info/1070/5018.htm)
 #### 【截止：7.1】 [南京邮电大学自动化学院、人工智能学院2022年全国优秀大学生暑期夏令营的通知（线上）](https://coa.njupt.edu.cn/2022/0610/c2277a222705/page.htm)
 #### 【截止：7.1】 [北京交通大学软件学院2022年全国优秀大学生暑期夏令营的通知](http://sse.bjtu.edu.cn/cms/item/883.html)
+#### 【截止：7.2】 [云南大学信息学院2022年优秀大学生夏令营活动通知](http://www.ise.ynu.edu.cn/annunciations/210)
 #### 【截止：7.3】 [北京理工大学网络空间安全学院2022年全国优秀大学生暑期夏令营招生简章](https://cst.bit.edu.cn/xxfw/tzgg/c5c6fb433b9c4a5a8d9a8d991c2d026b.htm)
 #### 【截止：7.6】 [山东师范大学信息科学与工程学院2022年优秀大学生暑期夏令营活动公告](http://www.ischool.sdnu.edu.cn/info/1053/7264.htm)
 #### 【截止：7.8】 [2022年深圳大学计算机与软件学院全国优秀大学生计算机夏令营通知](https://baijiahao.baidu.com/s?id=1733992531587070592&wfr=spider&for=pc)
