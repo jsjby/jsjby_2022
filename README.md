@@ -131,6 +131,7 @@
 #### 【截止：6.25】 [2022年首都师范大学信息工程学院“优秀大学生暑期夏令营”通知](https://iec.cnu.edu.cn/ggml/tzgg1/5c7502c66bf3467ab26c6a904025f4ec.htm)
 #### 【截止：6.25】 [2022年山东大学计算机学院全国优秀大学生暑期夏令营活动通知](https://www.cs.sdu.edu.cn/info/1068/5517.htm)
 #### 【截止：6.25】 [2022年北京邮电大学网络空间安全学院全国优秀大学生夏令营招生通知](https://scss.bupt.edu.cn/info/1110/4603.htm)
+#### 【截止：6.26】 [电子科技大学信息与软件工程学院第六届“软件工程”全国优秀大学生暑期夏令营通知](https://sise.uestc.edu.cn/info/1026/9189.htm)
 #### 【截止：6.26】 [清华大学深圳国际研究生院2022年信息科学与技术学部优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2022/0602/c120a54070/page.htm)
 #### 【截止：6.26】 [上海交通大学软件学院2022年优才夏令营通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=21216)
 #### 【截止：6.26】 [2022年北京师范大学人工智能学院优秀大学生夏令营](https://cist.bnu.edu.cn/tzgg/130692.html)
