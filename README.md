@@ -170,11 +170,16 @@
 
 ~~【截止：6.24】 [2022年北京大学软件与微电子学院优秀大学生夏令营活动通知](http://www.ss.pku.edu.cn/index.php/admission/admnotice/4334-2022%E5%B9%B4%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E9%80%9A%E7%9F%A5)~~
 
-#### 【截止：6.25】 [中国农业大学信息与电气工程学院2022年云端夏令营招生简章](http://ciee.cau.edu.cn/art/2022/6/8/art_26712_865967.html)
-#### 【截止：6.25】 [2022年中国科学院深圳先进技术研究院(SIAT)全国优秀大学生夏令营](https://mp.weixin.qq.com/s/txpmXK9YQqUQdethXZe91g)
-#### 【截止：6.25】 [2022年首都师范大学信息工程学院“优秀大学生暑期夏令营”通知](https://iec.cnu.edu.cn/ggml/tzgg1/5c7502c66bf3467ab26c6a904025f4ec.htm)
-#### 【截止：6.25】 [2022年山东大学计算机学院全国优秀大学生暑期夏令营活动通知](https://www.cs.sdu.edu.cn/info/1068/5517.htm)
-#### 【截止：6.25】 [2022年北京邮电大学网络空间安全学院全国优秀大学生夏令营招生通知](https://scss.bupt.edu.cn/info/1110/4603.htm)
+~~【截止：6.25】 [中国农业大学信息与电气工程学院2022年云端夏令营招生简章](http://ciee.cau.edu.cn/art/2022/6/8/art_26712_865967.html)~~
+
+~~【截止：6.25】 [2022年中国科学院深圳先进技术研究院(SIAT)全国优秀大学生夏令营](https://mp.weixin.qq.com/s/txpmXK9YQqUQdethXZe91g)~~
+
+~~【截止：6.25】 [2022年首都师范大学信息工程学院“优秀大学生暑期夏令营”通知](https://iec.cnu.edu.cn/ggml/tzgg1/5c7502c66bf3467ab26c6a904025f4ec.htm)~~
+
+~~【截止：6.25】 [2022年山东大学计算机学院全国优秀大学生暑期夏令营活动通知](https://www.cs.sdu.edu.cn/info/1068/5517.htm)~~
+
+~~【截止：6.25】 [2022年北京邮电大学网络空间安全学院全国优秀大学生夏令营招生通知](https://scss.bupt.edu.cn/info/1110/4603.htm)~~
+
 #### 【截止：6.26】 [湖南大学信息科学与工程学院2022年优秀大学生暑期夏令营活动通知](http://csee.hnu.edu.cn/info/1062/11982.htm)
 #### 【截止：6.26】 [电子科技大学信息与软件工程学院第六届“软件工程”全国优秀大学生暑期夏令营通知](https://sise.uestc.edu.cn/info/1026/9189.htm)
 #### 【截止：6.26】 [清华大学深圳国际研究生院2022年信息科学与技术学部优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2022/0602/c120a54070/page.htm)
