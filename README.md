@@ -212,9 +212,6 @@
 
 ~~【截止：6.27】 [2022年北京理工大学信息与电子学院全国优秀大学生暑期夏令营招生通知](https://sie.bit.edu.cn/tzgg/739841d5d7644d2cade3f5dea8fcc4be.htm)~~
 
-~~【截止：6.27】 [华南理工大学计算机科学与工程学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?
-B4BE4CC6D1C772920FC283855A6DC8348CE2E6CC219BDD564C6A3F2C29215BDDBF586F5F80982A64C8565FC1F338E0670A800093BD0EE7BE934B87B1B40028AE)~~
-
 ~~【截止：6.27】 [华南理工大学软件学院2022年优秀大学生暑期夏令营招募通知](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC834BF14895A7B1496DFAB7162E40D60B41F347F0EC7EBE9CEBA9D401C763D809D6F638AE64DE2C20F3960A21E29B76DB1E3)~~
 
 #### 【截止：6.28】 [清华大学深圳国际研究生院2022年电子信息/资源与环境（海洋技术与工程）优秀大学生夏令营报名通知](	https://www.sigs.tsinghua.edu.cn/2022/0601/c120a54060/page.htm)
@@ -270,6 +267,7 @@ B4BE4CC6D1C772920FC283855A6DC8348CE2E6CC219BDD564C6A3F2C29215BDDBF586F5F80982A64
 #### 【截止：7.8】 [2022年深圳大学计算机与软件学院全国优秀大学生计算机夏令营通知](https://baijiahao.baidu.com/s?id=1733992531587070592&wfr=spider&for=pc)
 #### 【截止：7.9】 [2022年中国科学院软件研究所全国大学生“软件与网络”夏令营招生通知](https://www.is.cas.cn/yjsjy2016/zsxx2016/202205/t20220530_6455509.html)
 #### 【截止：7.10】 [对外经济贸易大学信息学院2022年全国优秀大学生暑期夏令营招生简章](http://it.uibe.edu.cn/xygk/xyxw/359524a358474f69918f6500e5b72db3.htm)
+#### 【截止：7.18】 [2022年浙江大学控制科学与工程学院学术夏令营公告](http://www.cse.zju.edu.cn/redir.php?catalog_id=1055842&object_id=1209208)
 #### 【截止：7.29】 [东南大学自动化学院2022年全国优秀大学生夏令营活动暨推免预选拔工作通知](https://automation.seu.edu.cn/2022/0619/c24460a412180/page.htm)
 #### 【截止：8.5】 [东南大学网络空间安全学院2022年全国优秀大学生夏令营活动暨推免预选拔工作通知](https://cyber.seu.edu.cn/2022/0620/c18223a412213/page.htm)
 #### 【截止：8.8】 [东南大学软件学院2022年全国优秀大学生夏令营活动暨推免预选拔工作通知（第一批）](https://cose.seu.edu.cn/2022/0620/c18017a412259/page.htm)
