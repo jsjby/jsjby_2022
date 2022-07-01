@@ -274,6 +274,7 @@
 #### 【截止：7.3】 [2022年电子科技大学计算机科学与工程学院“计算机（网安）”全国优秀大学生暑期夏令营通知](https://www.scse.uestc.edu.cn/info/1015/12391.htm)
 #### 【截止：7.4】 [2022年国防科技大学电子科学学院全国优秀大学生暑期夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12370)
 #### 【截止：7.5】 [2022年国防科技大学电子对抗学院优秀大学生暑期夏令营简章](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fyjszs.nudt.edu.cn%2Fattached%2Ffile%2F20220628%2F20220628081353_880.docx&wdOrigin=BROWSELINK)
+#### 【截止：7.5】 [国防科技大学前沿交叉学科学院2022年优秀大学生云夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12375)
 #### 【截止：7.6】 [山东师范大学信息科学与工程学院2022年优秀大学生暑期夏令营活动公告](http://www.ischool.sdnu.edu.cn/info/1053/7264.htm)
 #### 【截止：7.8】 [曲阜师范大学计算机学院2022年全国优秀大学生暑期夏令营活动通知](https://jsj.qfnu.edu.cn/info/1063/5967.htm)
 #### 【截止：7.8】 [2022年深圳大学计算机与软件学院全国优秀大学生计算机夏令营通知](https://baijiahao.baidu.com/s?id=1733992531587070592&wfr=spider&for=pc)
