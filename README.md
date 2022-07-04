@@ -295,15 +295,22 @@
 
 ~~【截止：7.2】 [2022年中国地质大学（武汉）计算机学院第八届研招校园开放日活动方案](https://cs.cug.edu.cn/info/1021/4140.htm)~~
 
-~~【截止：7.2】 [2022年北京航空航天大学自动化科学与电气工程学院招收2023年硕士研究生优秀大学生暑假夏令营活动的通知](http://dept3.buaa.edu.cn/info/1066/4454.htm)~~
+~~【截止：7.2】 [2022年北京航空航天大学自动化科学与电气工程学院优秀大学生暑假夏令营通知](http://dept3.buaa.edu.cn/info/1066/4454.htm)~~
 
-#### 【截止：7.3】 [上海科技大学信息科学与技术学院2022年大学生夏令营第二批继续接收报名](https://sist.shanghaitech.edu.cn/2022/0627/c2863a653644/page.htm)
-#### 【截止：7.3】 [北京林业大学信息学院2022年优秀大学生线上夏令营招生简章](http://it.bjfu.edu.cn/yjsgz/yjszs/zsgg/397228.html)
-#### 【截止：7.3】 [2022年深圳大学电子与信息工程学院2023年暑期学校招生简章](https://mp.weixin.qq.com/s/sx5ibYjUdlqXSJ7QRATMPQ)
-#### 【截止：7.3】 [2022年国防科技大学智能科学学院优秀大学生夏令营通知](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fyjszs.nudt.edu.cn%2Fattached%2Ffile%2F20220625%2F20220625101114_300.doc&wdOrigin=BROWSELINK)
-#### 【截止：7.3】 [武汉科技大学信息科学与工程学院/人工智能学院2022年暑期线上学术夏令营通知](https://www.wust.edu.cn/xxkx/2022/0610/c668a261745/page.htm)
-#### 【截止：7.3】 [北京理工大学网络空间安全学院2022年全国优秀大学生暑期夏令营招生简章](https://cst.bit.edu.cn/xxfw/tzgg/c5c6fb433b9c4a5a8d9a8d991c2d026b.htm)
-#### 【截止：7.3】 [2022年电子科技大学计算机科学与工程学院“计算机（网安）”全国优秀大学生暑期夏令营通知](https://www.scse.uestc.edu.cn/info/1015/12391.htm)
+~~【截止：7.3】 [上海科技大学信息科学与技术学院2022年大学生夏令营第二批继续接收报名](https://sist.shanghaitech.edu.cn/2022/0627/c2863a653644/page.htm)~~
+
+~~【截止：7.3】 [北京林业大学信息学院2022年优秀大学生线上夏令营招生简章](http://it.bjfu.edu.cn/yjsgz/yjszs/zsgg/397228.html)~~
+
+~~【截止：7.3】 [2022年深圳大学电子与信息工程学院2023年暑期学校招生简章](https://mp.weixin.qq.com/s/sx5ibYjUdlqXSJ7QRATMPQ)~~
+
+~~【截止：7.3】 [2022年国防科技大学智能科学学院优秀大学生夏令营通知](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fyjszs.nudt.edu.cn%2Fattached%2Ffile%2F20220625%2F20220625101114_300.doc&wdOrigin=BROWSELINK)~~
+
+~~【截止：7.3】 [武汉科技大学信息科学与工程学院/人工智能学院2022年暑期线上学术夏令营通知](https://www.wust.edu.cn/xxkx/2022/0610/c668a261745/page.htm)~~
+
+~~【截止：7.3】 [北京理工大学网络空间安全学院2022年全国优秀大学生暑期夏令营招生简章](https://cst.bit.edu.cn/xxfw/tzgg/c5c6fb433b9c4a5a8d9a8d991c2d026b.htm)~~
+
+~~【截止：7.3】 [2022年电子科技大学计算机科学与工程学院“计算机（网安）”全国优秀大学生暑期夏令营通知](https://www.scse.uestc.edu.cn/info/1015/12391.htm)~~
+
 #### 【截止：7.4】 [2022年国防科技大学电子科学学院全国优秀大学生暑期夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12370)
 #### 【截止：7.4】 [2022年国防科技大学系统工程学院全国优秀大学生暑期夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12393)
 #### 【截止：7.5】 [2022年国防科技大学电子对抗学院优秀大学生暑期夏令营简章](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fyjszs.nudt.edu.cn%2Fattached%2Ffile%2F20220628%2F20220628081353_880.docx&wdOrigin=BROWSELINK)
