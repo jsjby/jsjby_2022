@@ -315,9 +315,12 @@
 
 ~~【截止：7.4】 [2022年国防科技大学系统工程学院全国优秀大学生暑期夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12393)~~
 
-#### 【截止：7.5】 [2022年国防科技大学电子对抗学院优秀大学生暑期夏令营简章](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fyjszs.nudt.edu.cn%2Fattached%2Ffile%2F20220628%2F20220628081353_880.docx&wdOrigin=BROWSELINK)
-#### 【截止：7.5】 [广州大学计算机科学与网络工程学院2022年优秀大学生夏令营报名通知](http://jsj.gzhu.edu.cn/info/1252/3222.htm)
-#### 【截止：7.5】 [国防科技大学前沿交叉学科学院2022年优秀大学生云夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12375)
+~~【截止：7.5】 [2022年国防科技大学电子对抗学院优秀大学生暑期夏令营简章](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fyjszs.nudt.edu.cn%2Fattached%2Ffile%2F20220628%2F20220628081353_880.docx&wdOrigin=BROWSELINK)~~
+
+~~【截止：7.5】 [广州大学计算机科学与网络工程学院2022年优秀大学生夏令营报名通知](http://jsj.gzhu.edu.cn/info/1252/3222.htm)~~
+
+~~【截止：7.5】 [国防科技大学前沿交叉学科学院2022年优秀大学生云夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12375)~~
+
 #### 【截止：7.6】 [华中科技大学网络空间安全学院2022年全国优秀大学生学术夏令营通知](http://cse.hust.edu.cn/info/1079/3131.htm)
 #### 【截止：7.6】 [山东师范大学信息科学与工程学院2022年优秀大学生暑期夏令营活动公告](http://www.ischool.sdnu.edu.cn/info/1053/7264.htm)
 #### 【截止：7.7】 [2022年华北电力大学电气与电子工程学院关于举办“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/048c0492273d46bfa2c0a3c355a5bbbe.htm)
