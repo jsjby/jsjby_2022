@@ -321,9 +321,12 @@
 
 ~~【截止：7.5】 [国防科技大学前沿交叉学科学院2022年优秀大学生云夏令营通知](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12375)~~
 
-#### 【截止：7.6】 [华中科技大学网络空间安全学院2022年全国优秀大学生学术夏令营通知](http://cse.hust.edu.cn/info/1079/3131.htm)
-#### 【截止：7.6】 [山东师范大学信息科学与工程学院2022年优秀大学生暑期夏令营活动公告](http://www.ischool.sdnu.edu.cn/info/1053/7264.htm)
-#### 【截止：7.7】 [2022年华北电力大学电气与电子工程学院关于举办“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/048c0492273d46bfa2c0a3c355a5bbbe.htm)
+~~【截止：7.6】 [华中科技大学网络空间安全学院2022年全国优秀大学生学术夏令营通知](http://cse.hust.edu.cn/info/1079/3131.htm)~~
+
+~~【截止：7.6】 [山东师范大学信息科学与工程学院2022年优秀大学生暑期夏令营活动公告](http://www.ischool.sdnu.edu.cn/info/1053/7264.htm)~~
+
+~~【截止：7.7】 [2022年华北电力大学电气与电子工程学院关于举办“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/048c0492273d46bfa2c0a3c355a5bbbe.htm)~~
+
 #### 【截止：7.8】 [曲阜师范大学计算机学院2022年全国优秀大学生暑期夏令营活动通知](https://jsj.qfnu.edu.cn/info/1063/5967.htm)
 #### 【截止：7.8】 [2022年深圳大学计算机与软件学院全国优秀大学生计算机夏令营通知](https://baijiahao.baidu.com/s?id=1733992531587070592&wfr=spider&for=pc)
 #### 【截止：7.9】 [2022年中国科学院软件研究所全国大学生“软件与网络”夏令营招生通知](https://www.is.cas.cn/yjsjy2016/zsxx2016/202205/t20220530_6455509.html)
