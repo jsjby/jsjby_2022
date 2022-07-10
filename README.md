@@ -337,6 +337,7 @@
 #### 【截止：7.10】 [大连海事大学信息科学技术学院2022年全国优秀大学生夏令营的通知](http://ist.dlmu.edu.cn/info/1068/3918.htm)
 #### 【截止：7.10】 [对外经济贸易大学信息学院2022年全国优秀大学生暑期夏令营招生简章](http://it.uibe.edu.cn/xygk/xyxw/359524a358474f69918f6500e5b72db3.htm)
 #### 【截止：7.14】 [2022年深圳大学微纳光电子学研究院2023年暑期学校招生简章（线上）](https://mp.weixin.qq.com/s/tLcOf-C0xu_Bblrf-e66Mg)
+#### 【截止：7.15】 [苏州大学电子信息学院2022年优秀本科生夏令营公告](http://dzxx.suda.edu.cn/ac/9e/c8244a502942/page.htm)
 #### 【截止：7.15】 [西南大学人工智能学院2022年全国优秀大学生学术夏令营招生简章](http://ai.swu.edu.cn/info/1109/2043.htm)
 #### 【截止：7.18】 [2022年浙江大学控制科学与工程学院学术夏令营公告](http://www.cse.zju.edu.cn/redir.php?catalog_id=1055842&object_id=1209208)
 #### 【截止：7.20】 [湖南科技大学计算机科学与工程学院2022年优秀大学生夏令营活动的通知](https://computer.hnust.edu.cn/tzgg/74feefe0c25e412796f6bc5955c0bbbe.htm)
