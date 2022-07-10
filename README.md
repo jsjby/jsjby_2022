@@ -347,6 +347,7 @@
 #### 【截止：7.20】 [湖南科技大学计算机科学与工程学院2022年优秀大学生夏令营活动的通知](https://computer.hnust.edu.cn/tzgg/74feefe0c25e412796f6bc5955c0bbbe.htm)
 #### 【截止：7.20】 [北京航空航天大学人工智能研究院2023年研究生优秀大学生暑期夏令营通知](https://iai.buaa.edu.cn/info/1024/1933.htm)
 #### 【截止：7.21】 [2022年北京航空航天大学前沿科学技术创新研究院招收2023年研究生优秀大学生暑期夏令营通知](http://qyy.buaa.edu.cn/info/1022/3973.htm)
+#### 【截止：7.24】 [2022年北京科技大学工程技术研究院暑期夏令营活动通知](http://iet.ustb.edu.cn/articledetail.asp?cateID=1&boardAID=0&boardBID=0&categoryID=0&deptAID=0&ID=827)
 #### 【截止：7.28】 [2022年浙江大学工程师学院关于举办云端“卓越工程师之旅”夏令营的通知](https://pi.zju.edu.cn/2022/0705/c67026a2601412/page.htm)
 #### 【截止：7.29】 [东南大学自动化学院2022年全国优秀大学生夏令营活动暨推免预选拔工作通知](https://automation.seu.edu.cn/2022/0619/c24460a412180/page.htm)
 #### 【截止：8.5】 [东南大学网络空间安全学院2022年全国优秀大学生夏令营活动暨推免预选拔工作通知](https://cyber.seu.edu.cn/2022/0620/c18223a412213/page.htm)
