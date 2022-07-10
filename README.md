@@ -327,9 +327,12 @@
 
 ~~【截止：7.7】 [2022年华北电力大学电气与电子工程学院关于举办“直通电院”夏令营活动的通知](https://electric.ncepu.edu.cn/zsgz/bsyjszs/048c0492273d46bfa2c0a3c355a5bbbe.htm)~~
 
-#### 【截止：7.8】 [曲阜师范大学计算机学院2022年全国优秀大学生暑期夏令营活动通知](https://jsj.qfnu.edu.cn/info/1063/5967.htm)
-#### 【截止：7.8】 [2022年深圳大学计算机与软件学院全国优秀大学生计算机夏令营通知](https://baijiahao.baidu.com/s?id=1733992531587070592&wfr=spider&for=pc)
-#### 【截止：7.9】 [2022年中国科学院软件研究所全国大学生“软件与网络”夏令营招生通知](https://www.is.cas.cn/yjsjy2016/zsxx2016/202205/t20220530_6455509.html)
+~~【截止：7.8】 [曲阜师范大学计算机学院2022年全国优秀大学生暑期夏令营活动通知](https://jsj.qfnu.edu.cn/info/1063/5967.htm)~~
+
+~~【截止：7.8】 [2022年深圳大学计算机与软件学院全国优秀大学生计算机夏令营通知](https://baijiahao.baidu.com/s?id=1733992531587070592&wfr=spider&for=pc)~~
+
+~~【截止：7.9】 [2022年中国科学院软件研究所全国大学生“软件与网络”夏令营招生通知](https://www.is.cas.cn/yjsjy2016/zsxx2016/202205/t20220530_6455509.html)~~
+
 #### 【截止：7.10】 [西南交通大学计算机学院2022年优秀大学生夏令营报名通知](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=186AA098F4995398)
 #### 【截止：7.10】 [北京航空航天大学软件学院2023年研究生优秀大学生夏令营活动方案](http://soft.buaa.edu.cn/info/1123/7151.htm)
 #### 【截止：7.10】 [国防科技大学计算机学院2022年优秀大学生夏令营组织方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12376)
