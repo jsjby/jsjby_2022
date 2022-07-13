@@ -333,13 +333,20 @@
 
 ~~【截止：7.9】 [2022年中国科学院软件研究所全国大学生“软件与网络”夏令营招生通知](https://www.is.cas.cn/yjsjy2016/zsxx2016/202205/t20220530_6455509.html)~~
 
-#### 【截止：7.10】 [西南交通大学计算机学院2022年优秀大学生夏令营报名通知](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=186AA098F4995398)
-#### 【截止：7.10】 [北京航空航天大学软件学院2023年研究生优秀大学生夏令营活动方案](http://soft.buaa.edu.cn/info/1123/7151.htm)
-#### 【截止：7.10】 [国防科技大学计算机学院2022年优秀大学生夏令营组织方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12376)
-#### 【截止：7.10】 [南京中医药大学人工智能与信息技术学院2022年大学生暑期夏令营的通知](https://xxjs.njucm.edu.cn/2022/0629/c463a99733/page.htm)
-#### 【截止：7.10】 [大连海事大学信息科学技术学院2022年全国优秀大学生夏令营的通知](http://ist.dlmu.edu.cn/info/1068/3918.htm)
-#### 【截止：7.10】 [对外经济贸易大学信息学院2022年全国优秀大学生暑期夏令营招生简章](http://it.uibe.edu.cn/xygk/xyxw/359524a358474f69918f6500e5b72db3.htm)
-#### 【截止：7.11】 [2022年北京协和医学院医学信息研究所全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/pQ1-R7szpeOplbMgtPKBbg)
+~~【截止：7.10】 [西南交通大学计算机学院2022年优秀大学生夏令营报名通知](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=186AA098F4995398)~~
+
+~~【截止：7.10】 [北京航空航天大学软件学院2023年研究生优秀大学生夏令营活动方案](http://soft.buaa.edu.cn/info/1123/7151.htm)~~
+
+~~【截止：7.10】 [国防科技大学计算机学院2022年优秀大学生夏令营组织方案](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=12376)~~
+
+~~【截止：7.10】 [南京中医药大学人工智能与信息技术学院2022年大学生暑期夏令营的通知](https://xxjs.njucm.edu.cn/2022/0629/c463a99733/page.htm)~~
+
+~~【截止：7.10】 [大连海事大学信息科学技术学院2022年全国优秀大学生夏令营的通知](http://ist.dlmu.edu.cn/info/1068/3918.htm)~~
+
+~~【截止：7.10】 [对外经济贸易大学信息学院2022年全国优秀大学生暑期夏令营招生简章](http://it.uibe.edu.cn/xygk/xyxw/359524a358474f69918f6500e5b72db3.htm)~~
+
+~~【截止：7.11】 [2022年北京协和医学院医学信息研究所全国优秀大学生暑期夏令营报名通知](https://mp.weixin.qq.com/s/pQ1-R7szpeOplbMgtPKBbg)~~
+
 #### 【截止：7.14】 [2022年深圳大学微纳光电子学研究院2023年暑期学校招生简章（线上）](https://mp.weixin.qq.com/s/tLcOf-C0xu_Bblrf-e66Mg)
 #### 【截止：7.15】 [苏州大学电子信息学院2022年优秀本科生夏令营公告](http://dzxx.suda.edu.cn/ac/9e/c8244a502942/page.htm)
 #### 【截止：7.15】 [西南大学人工智能学院2022年全国优秀大学生学术夏令营招生简章](http://ai.swu.edu.cn/info/1109/2043.htm)
