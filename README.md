@@ -390,8 +390,10 @@
 
 
 # 2022年计算机保研课题组招生
-#### 【截止：6.30】[武汉大学测绘遥感信息工程国家重点实验室](	http://www.lmars.whu.edu.cn/index.php/zxdf/3496.html)
-#### 【截止：7.20】[2022年南京理工大学智能计算成像实验室(SCILab)招收2023年推免入学研究生](https://docs.qq.com/scenario/link.html?url=https%3A%2F%2Fscilaboratory.com%2Fh-nd-251.html%23_np%3D2_978&pid=300000000$JNgyhNQNbPBY&cid=144115352734164137)
+~~【截止：6.30】[武汉大学测绘遥感信息工程国家重点实验室](	http://www.lmars.whu.edu.cn/index.php/zxdf/3496.html)~~
+
+~~【截止：7.20】[2022年南京理工大学智能计算成像实验室(SCILab)招收2023年推免入学研究生](https://docs.qq.com/scenario/link.html?url=https%3A%2F%2Fscilaboratory.com%2Fh-nd-251.html%23_np%3D2_978&pid=300000000$JNgyhNQNbPBY&cid=144115352734164137)~~
+
 #### 【截止：7.30】[2022年天津大学智算学部ViL实验室2023级研究生导师团计划招生](https://mp.weixin.qq.com/s/fD287dyDx9zPzapA6BQo6g)
 #### 【开始：5月份左右】 【六级480】 [南开大学-计算机视觉团队](https://cv.nankai.edu.cn/)
 #### 【截止：暂无】 [中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/) 
