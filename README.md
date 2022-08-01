@@ -378,6 +378,7 @@
 #### 【截止：8.15】 [2022年南京大学信息管理学院优秀大学生暑期夏令营招募通知](https://im.nju.edu.cn/c5/af/c13263a574895/page.htm)
 #### 【截止：8.31】 [清华大学深圳国际研究生院/清华-伯克利深圳学院2023年博士生招生简章（数据科学和信息技术专业](https://www.sigs.tsinghua.edu.cn/2022/0727/c118a56261/page.htm)
 #### 【截止：8.31】 [清华大学计算机科学与技术系2023年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/79f6c17e-8b2a-446b-b8a8-cfb3e5535128?yxsdm=024)
+#### 【截止：8.31】 [清华大学软件学院2023年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/678922c3-3e94-461c-919d-36fa61ac87a5?yxsdm=410)
 #### 【截止：8.31】 [清华大学交叉信息研究院2023年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c328b8df-af6a-40d3-afad-19ccc7770c06?yxsdm=047)
 #### 【截止：9.5】 [西南财经大学计算机与人工智能学院2023级推免生接收工作细则](https://yz.swufe.edu.cn/chaxun/yzb/tms/2023/jiuyue/bm/011.pdf)
 #### 【截止：9.16】 [2022年苏州大学计算机科学与技术学院优秀本科生夏令营通知](https://mp.weixin.qq.com/s/KZuF2kOYUpN-ML9hzhofsQ)
