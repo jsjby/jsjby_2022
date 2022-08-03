@@ -382,6 +382,7 @@
 #### 【截止：8.31】 [清华大学软件学院2023年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/678922c3-3e94-461c-919d-36fa61ac87a5?yxsdm=410)
 #### 【截止：8.31】 [清华大学交叉信息研究院2023年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/c328b8df-af6a-40d3-afad-19ccc7770c06?yxsdm=047)
 #### 【截止：9.5】 [西南财经大学计算机与人工智能学院2023级推免生接收工作细则](https://yz.swufe.edu.cn/chaxun/yzb/tms/2023/jiuyue/bm/011.pdf)
+#### 【截止：9.13】 [哈尔滨工业大学（深圳）计算机科学与技术学院2023年推免生（含直博生）接收工作细则](http://cs.hitsz.edu.cn/info/1029/6192.htm)
 #### 【截止：9.16】 [2022年苏州大学计算机科学与技术学院优秀本科生夏令营通知](https://mp.weixin.qq.com/s/KZuF2kOYUpN-ML9hzhofsQ)
 #### 【截止：9.18】 [2022年南京航空航天大学计算机科学与技术学院/人工智能学院/软件学院综合考核选拔优秀应届本科毕业生办法](http://cs.nuaa.edu.cn/2022/0622/c10851a286661/page.htm)
 #### 【截止：9.23】 [2022年西安电子科技大学计算机科学与技术学院2023年研究生招生学术夏令营暨预推免报名](https://cs.xidian.edu.cn/info/1026/14793.htm)
