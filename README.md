@@ -355,7 +355,7 @@
 
 ~~【截止：7.18】 [2022年浙江大学控制科学与工程学院学术夏令营公告](http://www.cse.zju.edu.cn/redir.php?catalog_id=1055842&object_id=1209208)~~
 
-~~ 【截止：7.20】 [湖南科技大学计算机科学与工程学院2022年优秀大学生夏令营活动的通知](https://computer.hnust.edu.cn/tzgg/74feefe0c25e412796f6bc5955c0bbbe.htm)~~
+~~【截止：7.20】 [湖南科技大学计算机科学与工程学院2022年优秀大学生夏令营活动的通知](https://computer.hnust.edu.cn/tzgg/74feefe0c25e412796f6bc5955c0bbbe.htm)~~
 
 ~~【截止：7.20】 [北京航空航天大学人工智能研究院2023年研究生优秀大学生暑期夏令营通知](https://iai.buaa.edu.cn/info/1024/1933.htm)~~
 
