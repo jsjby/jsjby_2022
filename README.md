@@ -384,6 +384,9 @@
 ~~【截止：8.10】 [2022年东南大学微电子学院全国优秀大学生夏令营活动暨推免预选拔工作通知](https://ic.seu.edu.cn/2022/0627/c2214a412852/page.htm)~~
 
 #### 【截止：8.15】 [2022年南京大学信息管理学院优秀大学生暑期夏令营招募通知](https://im.nju.edu.cn/c5/af/c13263a574895/page.htm)
+
+#### 【截止：8.15】 [2022年同济大学设计创意学院人工智能与数据设计方向优秀学生暑期学校通知](https://mp.weixin.qq.com/s/K6grG2Z4e796p09jYnqVYA)
+
 #### 【截止：8.31】 [清华大学深圳国际研究生院/清华-伯克利深圳学院2023年博士生招生简章（数据科学和信息技术专业](https://www.sigs.tsinghua.edu.cn/2022/0727/c118a56261/page.htm)
 #### 【截止：8.31】 [清华大学计算机科学与技术系2023年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/79f6c17e-8b2a-446b-b8a8-cfb3e5535128?yxsdm=024)
 #### 【截止：8.31】 [清华大学软件学院2023年博士生招生简章](https://yzbm.tsinghua.edu.cn/publish/s03/s0302/detail/678922c3-3e94-461c-919d-36fa61ac87a5?yxsdm=410)
