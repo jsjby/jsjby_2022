@@ -1,4 +1,5 @@
 ## [全国各个985高校的计算机保研面试案例购买连接](https://mianbaoduo.com/o/jsjby/work) 
+## [2022计算机保研预推免](https://github.com/jisuanjibaoyan2022/jsjby_2022/blob/main/message.md) 
 
 # 2022年计算机保研夏令营
 
