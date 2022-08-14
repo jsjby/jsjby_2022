@@ -1,7 +1,6 @@
 ## [全国各个985高校的计算机保研面试案例购买连接](https://mianbaoduo.com/o/jsjby/work) 
 ## [2022计算机保研预推免](https://github.com/jisuanjibaoyan2022/jsjby_2022/blob/main/计算机保研预推免通知.md) 
-
-# 2022年计算机保研夏令营
+## 2022年计算机保研夏令营(https://github.com/jisuanjibaoyan2022/jsjby_2022/blob/main/计算机保研夏令营.md) 
 
 
 ~~【截止：4.24】 [清华大学自动化系智能与网络化系统研究中心2022年招生夏令营简章及报名通道](https://mp.weixin.qq.com/s/PIh-a1VIBqt7-BambzxkUA)~~
